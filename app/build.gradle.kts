@@ -55,4 +55,6 @@ dependencies {
     implementation(libs.androidx.navigation.ui.ktx)
     implementation(libs.androidx.fragment.ktx)
 
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4")
+
 }
